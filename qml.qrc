@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>stronaGlownaAplikacji.qml</file>
+        <file>wczytanieElementuUzytkownika.qml</file>
+        <file>wczytanieListyPrzedmiotow.qml</file>
+    </qresource>
+</RCC>
