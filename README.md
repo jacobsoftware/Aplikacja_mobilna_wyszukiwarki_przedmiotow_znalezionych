@@ -1,0 +1,2 @@
+# Aplikacja_mobilna_wyszukiwarki_przedmiotow_znalezionych
+Aplikacja mobilna wykorzystuje oficjalnie API biura rzeczy znalezionych w Poznaniu.
